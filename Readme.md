@@ -16,3 +16,8 @@ AB형
 2. 컴퓨터공학
 
 pull 연습 해보기
+<<<<<<< HEAD
+=======
+
+## navigation 추가
+>>>>>>> featrue/navigation
